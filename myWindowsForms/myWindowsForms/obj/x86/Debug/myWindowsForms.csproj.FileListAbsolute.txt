@@ -1,0 +1,7 @@
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\bin\Debug\myWindowsForms.exe
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\bin\Debug\myWindowsForms.pdb
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\obj\x86\Debug\myWindowsForms.Form1.resources
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\obj\x86\Debug\myWindowsForms.Properties.Resources.resources
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\obj\x86\Debug\myWindowsForms.csproj.GenerateResource.Cache
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\obj\x86\Debug\myWindowsForms.exe
+C:\exclasses\src\winprog\myWindowsForms\myWindowsForms\obj\x86\Debug\myWindowsForms.pdb
